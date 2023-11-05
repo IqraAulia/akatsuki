@@ -83,7 +83,7 @@ fun AkatsukiListItem(
         )
         Text(
             text = akatsuki.nama,
-            fontWeight = FontWeight.Medium,
+//            fontWeight = FontWeight.Medium,
             modifier = Modifier
                 .fillMaxWidth()
                 .weight(1f)
