@@ -63,7 +63,7 @@ fun AboutS(
                 horizontalAlignment = Alignment.CenterHorizontally
             ) {
                 Image(
-                    painter = painterResource(id = R.drawable.profil),
+                    painter = painterResource(id = R.drawable.foto),
                     contentDescription = null,
                     contentScale = ContentScale.Crop,
                     modifier = modifier
