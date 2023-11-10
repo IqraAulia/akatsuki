@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">akatsuki</string>
+    <string name="about_page">about_page</string>
+    <string name="about">about</string>
+    <string name="back">back</string>
+    <string name="nama">iqra aulia syafputra</string>
+    <string name="email">iqraauliasaputra@gmail.com</string>
 </resources>
